@@ -9,3 +9,4 @@ Building an ETL pipeline using Python, Pandas, and either Python dictionary meth
     -Create the Crowdfunding Database
     
 v2.0
+Hello It was a great collaboration to get this project to completion. Marie 
